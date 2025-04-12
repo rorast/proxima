@@ -36,4 +36,4 @@ go install google.golang.org/grpc/cmd/protoc-gen-go-grpc@latest
 - 安裝 GF CLI 工具 : go install github.com/gogf/gf/cmd/gf/v2@latest
 - 拉取 github 的專案 : git clone https://github.com/rorast/proxima.git
 - 初始化專案 : cd proxima && gf init proxima -m (有相同的目錄，會覆蓋)
-- 
+- 先刪除 app 目錄
